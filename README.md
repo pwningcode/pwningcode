@@ -1,1 +1,1 @@
-<a rel="me" href="https://mastodonian.online/@pwningcode">Follow Me on Mastodon</a>
+<a rel="me" href="https://mastodon.online/@pwningcode">Follow Me on Mastodon</a>
